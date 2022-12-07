@@ -1,8 +1,9 @@
 {
   "name": "@metacodi/core-native",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Capa nativa per encapsular els frameworks de Capacitor i Cordova",
   "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
   "type": "module",
   "scripts": {
     "build": "ng build core-native",
